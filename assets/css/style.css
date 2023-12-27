@@ -53,9 +53,10 @@ h1 {
     margin-bottom: 1em;
 }
 
-.active {
-    border-bottom: 1px solid #3a3a3a;
-}
+ /* Nav bar */
+ .active {
+     border-bottom: 1px solid #3a3a3a;
+ }
 
 /* Nav toggle */
 #nav-toggle:checked~nav {
@@ -137,4 +138,5 @@ footer {
     #menu a:hover {
     border-bottom: 1px solid #3a3a3a;
     }
+
 }
